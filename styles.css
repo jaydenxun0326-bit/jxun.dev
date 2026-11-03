@@ -90,6 +90,7 @@ body {
 }
 
 #plane {
+    z-index: -1;
     animation: fly 3s linear infinite;
     
 
